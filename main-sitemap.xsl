@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Palm Coast Pest Pros</title>
+						<title>Locations Sitemap - Palm Coast Pest Control</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Palm Coast Pest Pros</title>
+						<title>XML Sitemap - Palm Coast Pest Control</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
